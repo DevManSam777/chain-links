@@ -268,6 +268,9 @@ body {
     25% { 
         transform: translateX(-8px) rotate(-5deg); 
     }
+    50% { 
+        transform: translateX(0px) rotate(0deg); 
+    }
     75% { 
         transform: translateX(8px) rotate(5deg); 
     }
@@ -279,6 +282,9 @@ body {
     }
     25% { 
         transform: translateX(-8px); 
+    }
+    50% { 
+        transform: translateX(0px); 
     }
     75% { 
         transform: translateX(8px); 
@@ -293,18 +299,6 @@ body {
 .bottom-chain::before,
 .bottom-chain::after {
     border-color: rgba(255, 255, 255, 0.4);
-}
-
-@keyframes chain-sway {
-    0%, 100% { 
-        transform: translateX(0px) rotate(0deg); 
-    }
-    25% { 
-        transform: translateX(-8px) rotate(-5deg); 
-    }
-    75% { 
-        transform: translateX(8px) rotate(5deg); 
-    }
 }
 
 .footer {
