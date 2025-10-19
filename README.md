@@ -2,7 +2,7 @@
 
 A personal links page featuring an animated chain-link design with a starry background.
 
-![Chain-Links Preview](chain-links.png)
+![Chain-Links Preview](chainlinks.gif)
 
 ## About
 
