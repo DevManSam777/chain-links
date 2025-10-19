@@ -25,5 +25,9 @@ A simple landing page that connects visitors to various social profiles and cont
 
 
 ---
+## License
+[License](License)  
+
+---
 
 © 2025 Chain-Links by Samir Shuman
